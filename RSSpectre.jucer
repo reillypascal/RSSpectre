@@ -18,6 +18,7 @@
       <FILE id="pgTyvC" name="LFO.h" compile="0" resource="0" file="Source/LFO.h"/>
       <FILE id="l9r1Qo" name="MinMaxBin.cpp" compile="1" resource="0" file="Source/MinMaxBin.cpp"/>
       <FILE id="owcFkp" name="MinMaxBin.h" compile="0" resource="0" file="Source/MinMaxBin.h"/>
+      <FILE id="Sp53K8" name="ProcessorBase.h" compile="0" resource="0" file="Source/ProcessorBase.h"/>
       <FILE id="OgpIAJ" name="Utilities.h" compile="0" resource="0" file="Source/Utilities.h"/>
     </GROUP>
   </MAINGROUP>
